@@ -1,0 +1,5 @@
+profile: service
+defaultPackage: mn.auto.ts
+---
+testFramework: spock
+sourceLanguage: groovy
